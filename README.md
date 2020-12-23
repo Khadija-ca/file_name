@@ -1,3 +1,3 @@
 # Ocean_Edge
-write something relevant with project
+it's image to html project.
 https://khadija-ca.github.io/file_name/
